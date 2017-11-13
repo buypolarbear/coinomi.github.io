@@ -29,6 +29,10 @@
 - name: Bitcoin Cash
   url: https://www.bitcoincash.org
   icon: bitcoincash
+  
+- name: Bitcoin Gold
+  url: https://bitcoingold.org/
+  icon: bitcoin_v2
 
 - name: Bitcoin Plus
   url: http://www.bitcoinplus.org/
