@@ -326,6 +326,10 @@
   url: https://viacoin.org
   icon: viacoin
 
+- name: Voxels
+  url: https://thevoxel.com/
+  icon: voxels
+
 - name: Vpncoin
   url: https://bitcointalk.org/index.php?topic=705446.0
   icon: vpncoin
