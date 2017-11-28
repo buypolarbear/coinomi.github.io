@@ -142,6 +142,10 @@
   url: https://www.feathercoin.com/
   icon: feathercoin
 
+- name: Firstcoin
+  url: http://firstcoinproject.com/
+  icon: firstcoin
+
 - name: Flashcoin
   url: https://flashcoin.io
   icon: flashcoin
@@ -161,6 +165,10 @@
 - name: Gulden
   url: https://gulden.com/
   icon: gulden
+
+- name: Helleniccoin
+  url: http://www.helleniccoin.org
+  icon: helleniccoin
 
 - name: Hempcoin
   url: http://hempcoin.org
@@ -326,6 +334,10 @@
   url: https://viacoin.org
   icon: viacoin
 
+- name: Vivo
+  url: https://www.vivocrypto.com
+  icon: vivo
+
 - name: Voxels
   url: https://thevoxel.com/
   icon: voxels
@@ -333,6 +345,10 @@
 - name: Vpncoin
   url: https://bitcointalk.org/index.php?topic=705446.0
   icon: vpncoin
+
+- name: Whitecoin
+  url: http://whitecoin.info/
+  icon: whitecoin
 
 - name: ZCash
   url: https://z.cash/
