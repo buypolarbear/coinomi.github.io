@@ -190,10 +190,6 @@
   url: https://www.ixcoin.net/
   icon: ixcoin
 
-- name: Jumbucks
-  url: http://getjumbucks.com/
-  icon: jumbucks
-
 - name: Landcoin
   url: https://landcoin.co/
   icon: landcoin
@@ -281,10 +277,6 @@
 - name: Reddcoin
   url: https://www.reddcoin.com/
   icon: reddcoin
-
-- name: Richcoin
-  url: http://richcoin.info/
-  icon: richcoin
 
 - name: Rubycoin
   url: http://www.rubycoin.org/
