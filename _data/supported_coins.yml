@@ -150,6 +150,10 @@
   url: https://flashcoin.io
   icon: flashcoin
 
+- name: Fujicoin
+  url: http://www.fujicoin.org
+  icon: fujicoin
+
 - name: Game Credits
   url: https://gamecredits.com/
   icon: gamecredits
@@ -349,6 +353,10 @@
 - name: Whitecoin
   url: http://whitecoin.info/
   icon: whitecoin
+
+- name: Zencash
+  url: https://zensystem.io/
+  icon: zencoin
 
 - name: ZCash
   url: https://z.cash/
