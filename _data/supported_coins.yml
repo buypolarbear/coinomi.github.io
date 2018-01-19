@@ -348,7 +348,7 @@
 
 - name: Zencash
   url: https://zensystem.io/
-  icon: zencoin
+  icon: zencash
 
 - name: ZCash
   url: https://z.cash/
