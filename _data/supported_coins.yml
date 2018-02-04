@@ -37,6 +37,10 @@
 - name: Bitcoin Plus
   url: http://www.bitcoinplus.org/
   icon: bitcoinplus
+  
+- name: BitcoinZ
+  url: https://bitcoinz.global/
+  icon: bitcoinz
 
 - name: Bitcore
   url: https://bitcore.cc
@@ -161,10 +165,18 @@
 - name: GCRcoin
   url: http://gcrcoin.com/
   icon: gcr
+  
+- name: Gobyte
+  url: https://gobyte.network/
+  icon: gobyte 
 
 - name: Gridcoin
   url: http://www.gridcoin.us/
   icon: gridcoin
+
+- name: Groestlcoin
+  url: https://www.groestlcoin.org/
+  icon: groestlcoin
 
 - name: Gulden
   url: https://gulden.com/
@@ -206,6 +218,10 @@
   url: https://litecoin.org/
   icon: litecoin
 
+- name: Mix
+  url: https://www.mix-blockchain.org
+  icon: mix
+
 - name: Monacoin
   url: http://monacoin.org/
   icon: monacoin
@@ -229,6 +245,10 @@
 - name: Neurocoin
   url: https://neurocoin.org
   icon: neurocoin
+  
+- name: Newyorkcoin
+  url: http://newyorkcoin.net/
+  icon: newyorkcoin
 
 - name: Novacoin
   url: http://novacoin.org/
@@ -245,6 +265,10 @@
 - name: OKCash
   url: http://okcash.co/
   icon: okcash
+  
+- name: OmniLayer
+  url: http://www.omnilayer.org
+  icon: omnilayer
 
 - name: Peercoin
   url: http://peercoin.net/
@@ -261,6 +285,10 @@
 - name: PIVX
   url: https://www.pivx.org/
   icon: pivx
+
+- name: POA
+  url: https://poa.network
+  icon: poa
 
 - name: POSW
   url: https://poswallet.com/
@@ -286,6 +314,10 @@
   url: http://aboutshadow.com/
   icon: shadowcash
 
+- name: Smartcash
+  url: https://smartcash.cc/
+  icon: smartcash
+
 - name: Smileycoin
   url: https://tutor-web.info/smileycoin
   icon: smileycoin
@@ -301,6 +333,10 @@
 - name: Syscoin
   url: http://syscoin.org/
   icon: syscoin
+
+- name: Tether
+  url: https://tether.to/
+  icon: tether
 
 - name: TOACoin
   url: http://www.toacoin.com
