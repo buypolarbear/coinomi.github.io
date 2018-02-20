@@ -26,6 +26,10 @@
   url: http://belacoin.org/
   icon: belacoin
 
+- name: Bitcoin Atom
+  url: https://bitcoinatom.io
+  icon: bitcoinatom
+
 - name: Bitcoin Cash
   url: https://www.bitcoincash.org
   icon: bitcoincash
@@ -77,6 +81,10 @@
 - name: Compcoin
   url: https://compcoin.com/
   icon: compcoin
+
+- name: Crave
+  url: https://www.craveproject.net
+  icon: crave
 
 - name: Crown
   url: https://www.crown.tech/
@@ -137,6 +145,10 @@
 - name: EuropeCoin
   url: https://www.europecoin.eu.org/
   icon: europecoin
+
+- name: ExclusiveCoin
+  url: https://exclusivecoin.pw
+  icon: exclusivecoin
 
 - name: Expanse
   url: http://www.expanse.tech/
@@ -218,6 +230,14 @@
   url: https://litecoin.org/
   icon: litecoin
 
+- name: Lynx
+  url: https://getlynx.io
+  icon: lynx
+
+- name: Minexcoin
+  url: https://minexcoin.com
+  icon: minexcoin
+
 - name: Mix
   url: https://www.mix-blockchain.org
   icon: mix
@@ -225,6 +245,10 @@
 - name: Monacoin
   url: http://monacoin.org/
   icon: monacoin
+
+- name: Musicoin
+  url: https://www.musicoin.org
+  icon: musicoin
 
 - name: Myriadcoin
   url: http://myriadcoin.org/en/home
@@ -382,6 +406,10 @@
   url: http://whitecoin.info/
   icon: whitecoin
 
+- name: Wincoin
+  url: http://www.wincoin.co
+  icon: wincoin
+
 - name: Zencash
   url: https://zensystem.io/
   icon: zencash
@@ -389,6 +417,10 @@
 - name: ZCash
   url: https://z.cash/
   icon: zcash
+
+- name: ZClassic
+  url: https://zclassic.org
+  icon: zclassic
 
 - name: ZCoin
   url: http://zcoin.io/
