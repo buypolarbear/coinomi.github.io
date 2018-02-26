@@ -36,11 +36,15 @@
   
 - name: Bitcoin Gold
   url: https://bitcoingold.org/
-  icon: bitcoin_v2
+  icon: bitcoingold
 
 - name: Bitcoin Plus
   url: http://www.bitcoinplus.org/
   icon: bitcoinplus
+  
+- name: Bitcoin Private
+  url: https://btcprivate.org
+  icon: bitcoinprivate
   
 - name: BitcoinZ
   url: https://bitcoinz.global/
@@ -229,6 +233,10 @@
 - name: Litecoin
   url: https://litecoin.org/
   icon: litecoin
+
+- name: Litecoin Cash
+  url: https://litecoinca.sh
+  icon: litecoincash
 
 - name: Lynx
   url: https://getlynx.io
