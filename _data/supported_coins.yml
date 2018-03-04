@@ -279,7 +279,7 @@
   icon: neurocoin
   
 - name: Newyorkcoin
-  url: http://newyorkcoin.net/
+  url: https://nycoin.community
   icon: newyorkcoin
 
 - name: Novacoin
