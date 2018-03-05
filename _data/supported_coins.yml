@@ -10,13 +10,25 @@
   url: https://aviabitcoin.com/
   icon: abncoin
 
+- name: Aelf
+  url: http://aelf.io/
+  icon: aelf
+
 - name: Asiacoin
   url: http://www.thecoin.asia/
   icon: asiacoin
 
+- name: Atlant
+  url: https://atlant.io/
+  icon: atlant
+
 - name: Auroracoin
   url: http://aurarad.is/
   icon: auroracoin
+
+- name: Bartercoin
+  url: https://www.bartercoin.info/
+  icon: bartercoin
 
 - name: Bata
   url: http://www.bata.io/
@@ -54,6 +66,10 @@
   url: https://bitcore.cc
   icon: bitcore
 
+- name: Bitdice Casino
+  url: https://www.bitdice.me/
+  icon: bitdice
+
 - name: BitSend
   url: http://bitsend.info
   icon: bitsend
@@ -74,6 +90,10 @@
   url: http://cannacoin.cc/
   icon: cannacoin
 
+- name: CanYaCoin
+  url: https://canya.io/
+  icon: canya
+
 - name: Clams
   url: http://www.clamcoin.org/
   icon: clams
@@ -81,6 +101,10 @@
 - name: Clubcoin
   url: http://clubcoin.co/
   icon: clubcoin
+
+- name: Coinlancer
+  url: https://www.coinlancer.io/
+  icon: coinlancer
 
 - name: Compcoin
   url: https://compcoin.com/
@@ -90,9 +114,17 @@
   url: https://www.craveproject.net
   icon: crave
 
+- name: Credo
+  url: https://bitbounce.com/credo
+  icon: credo
+
 - name: Crown
   url: https://www.crown.tech/
   icon: crown
+
+- name: Dalecoin
+  url: http://dalecoin.org/
+  icon: dalecoin
 
 - name: Dash
   url: https://www.dashpay.io/
@@ -105,6 +137,14 @@
 - name: Denarius
   url: https://denarius.io
   icon: denarius
+
+- name: DENT
+  url: http://www.dentcoin.com/
+  icon: dent
+
+- name: Dentacoin
+  url: https://dentacoin.com/
+  icon: dentacoin
 
 - name: Diamond
   url: http://bit.diamonds
@@ -138,6 +178,10 @@
   url: https://www.emc2.foundation/
   icon: einsteinium
 
+- name: Enjin Coin
+  url: https://enjincoin.io/
+  icon: enjin
+
 - name: Ethereum
   url: https://www.ethereum.org/
   icon: ethereum
@@ -169,6 +213,10 @@
 - name: Flashcoin
   url: https://flashcoin.io
   icon: flashcoin
+
+- name: Flixxo
+  url: https://flixxo.com/
+  icon: flixxo
 
 - name: Fujicoin
   url: http://www.fujicoin.org
@@ -206,6 +254,10 @@
   url: http://hempcoin.org
   icon: hempcoin
 
+- name: Hive Project Token
+  url: 
+  icon: hiveproject
+
 - name: Insanecoin
   url: http://insanecoin.com/
   icon: insane
@@ -221,6 +273,10 @@
 - name: Landcoin
   url: https://landcoin.co/
   icon: landcoin
+
+- name: LAToken
+  url: https://www.latoken.com/
+  icon: latoken
 
 - name: LBRY Credits
   url: http://lbry.io/
@@ -238,6 +294,10 @@
   url: https://litecoinca.sh
   icon: litecoincash
 
+- name: LWF
+  url: https://www.lwf.io/
+  icon: lwf
+
 - name: Lynx
   url: https://getlynx.io
   icon: lynx
@@ -249,6 +309,10 @@
 - name: Mix
   url: https://www.mix-blockchain.org
   icon: mix
+
+- name: MobileGo
+  url: https://mobilego.io/
+  icon: mobilego
 
 - name: Monacoin
   url: http://monacoin.org/
@@ -302,6 +366,10 @@
   url: http://www.omnilayer.org
   icon: omnilayer
 
+- name: onG
+  url: https://ongcoin.io/
+  icon: ong
+
 - name: Peercoin
   url: http://peercoin.net/
   icon: peercoin
@@ -330,6 +398,10 @@
   url: http://www.potcoin.com/
   icon: potcoin
 
+- name: PowerLedger
+  url: https://powerledger.io/
+  icon: powr
+
 - name: Putincoin
   url: https://putincoin.info
   icon: putincoin
@@ -337,6 +409,14 @@
 - name: Reddcoin
   url: https://www.reddcoin.com/
   icon: reddcoin
+
+- name: Ripio Credit Network
+  url: https://ripiocredit.network
+  icon: ripiocreditnetwork
+
+- name: Rivetz
+  url: https://rivetzintl.com/
+  icon: rivetz
 
 - name: Rubycoin
   url: http://www.rubycoin.org/
@@ -361,6 +441,10 @@
 - name: Stratis
   url: https://stratisplatform.com/
   icon: stratis
+
+- name: Substratum
+  url: http://substratum.net/
+  icon: substratum
  
 - name: Syscoin
   url: http://syscoin.org/
@@ -370,13 +454,29 @@
   url: https://tether.to/
   icon: tether
 
+- name: The LendingCoin
+  url: https://www.thelendingcoin.com/
+  icon: tlc
+
+- name: Titanium BAR Token
+  url: https://tbis.io/
+  icon: titanium
+
 - name: TOACoin
   url: http://www.toacoin.com
   icon: toacoin
 
+- name: UCASH
+  url: https://u.cash
+  icon: ucash
+
 - name: Ultimate Secure Cash
   url: http://ultimatesecurecash.info
   icon: ultimatesecurecash
+
+- name: UmbrellaCoin
+  url: https://www.umbrellacoin.org/
+  icon: umbrellacoin
 
 - name: Unobtanium
   url: http://unobtanium.uno/
@@ -409,6 +509,10 @@
 - name: Vpncoin
   url: https://bitcointalk.org/index.php?topic=705446.0
   icon: vpncoin
+
+- name: Wax
+  url: https://wax.io/
+  icon: wax
 
 - name: Whitecoin
   url: http://whitecoin.info/
