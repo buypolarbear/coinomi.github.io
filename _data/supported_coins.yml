@@ -382,6 +382,10 @@
   url: http://getstarted.with.pink
   icon: pinkcoin
 
+- name: PIRL
+  url: https://pirl.io
+  icon: pirl
+
 - name: PIVX
   url: https://www.pivx.org/
   icon: pivx
