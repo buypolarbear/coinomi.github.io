@@ -150,7 +150,7 @@
   url: http://bit.diamonds
   icon: diamond
 
-- name: Digibyte
+- name: DigiByte
   url: http://www.digibyte.co/
   icon: digibyte
 
@@ -306,7 +306,7 @@
   url: https://minexcoin.com
   icon: minexcoin
 
-- name: Mix
+- name: MIX
   url: https://www.mix-blockchain.org
   icon: mix
 
