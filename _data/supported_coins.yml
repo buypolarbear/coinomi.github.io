@@ -14,6 +14,10 @@
   url: http://aelf.io/
   icon: aelf
 
+- name: Aeron
+  url: https://aeron.aero/
+  icon: aeron
+
 - name: Asiacoin
   url: http://www.thecoin.asia/
   icon: asiacoin
@@ -57,6 +61,10 @@
 - name: Bitcoin Private
   url: https://btcprivate.org
   icon: bitcoinprivate
+
+- name: BitcoinToken
+  url: https://btk.community
+  icon: bitcointoken
   
 - name: BitcoinZ
   url: https://bitcoinz.global/
@@ -94,6 +102,10 @@
   url: https://canya.io/
   icon: canya
 
+- name: CEEK Smart VR
+  url: 
+  icon: ceek
+
 - name: Clams
   url: http://www.clamcoin.org/
   icon: clams
@@ -109,6 +121,10 @@
 - name: Compcoin
   url: https://compcoin.com/
   icon: compcoin
+
+- name: ConcertVR
+  url: 
+  icon: concertvr
 
 - name: Crave
   url: https://www.craveproject.net
@@ -222,6 +238,10 @@
   url: http://www.fujicoin.org
   icon: fujicoin
 
+- name: FundFantasy
+  url: https://fundfantasy.io
+  icon: fundfantasy
+
 - name: Game Credits
   url: https://gamecredits.com/
   icon: gamecredits
@@ -270,6 +290,10 @@
   url: https://www.ixcoin.net/
   icon: ixcoin
 
+- name: Knowledge
+  url: https://knowledge.io/
+  icon: knowledge
+
 - name: Landcoin
   url: https://landcoin.co/
   icon: landcoin
@@ -294,13 +318,25 @@
   url: https://litecoinca.sh
   icon: litecoincash
 
+- name: LocalCoinSwap
+  url: https://localcoinswap.com
+  icon: localcoinswap
+
 - name: LWF
   url: https://www.lwf.io/
   icon: lwf
 
+- name: Lympo
+  url: https://lympo.io
+  icon: lympo
+
 - name: Lynx
   url: https://getlynx.io
   icon: lynx
+
+- name: MARK.SPACE
+  url: 
+  icon: markspace
 
 - name: Minexcoin
   url: https://minexcoin.com
@@ -501,6 +537,14 @@
 - name: Viacoin
   url: https://viacoin.org
   icon: viacoin
+
+- name: Viberate
+  url: https://www.viberate.com/
+  icon: viberate
+
+- name: Vice Industry Token
+  url: https://vicetoken.com/
+  icon: vicetoken
 
 - name: Vivo
   url: https://www.vivocrypto.com
