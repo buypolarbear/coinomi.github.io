@@ -90,6 +90,10 @@
   url: http://britcoin.com/
   icon: britcoin
 
+- name: Callisto
+  url: https://callisto.network/
+  icon: callisto
+
 - name: Canada eCoin
   url: http://www.canadaecoin.ca/
   icon: canadaecoin
@@ -293,6 +297,14 @@
 - name: Knowledge
   url: https://knowledge.io/
   icon: knowledge
+
+- name: Kobocoin
+  url: https://kobocoin.com/
+  icon: kobocoin
+
+- name: Komodo
+  url: https://komodoplatform.com/
+  icon: komodo
 
 - name: Landcoin
   url: https://landcoin.co/
