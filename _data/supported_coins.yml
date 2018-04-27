@@ -478,6 +478,10 @@
   url: http://aboutshadow.com/
   icon: shadowcash
 
+- name: Skraps
+  url: https://skraps.io
+  icon: skraps
+
 - name: Smartcash
   url: https://smartcash.cc/
   icon: smartcash
